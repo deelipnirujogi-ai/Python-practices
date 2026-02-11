@@ -7,48 +7,67 @@ This repository documents my structured learning journey in Python — starting 
 
 Variables & Data Types
 
-#Operators
-#Conditional Statements
-#Loops
-#Functions
+Operators
+
+Conditional Statements
+
+Loops
+
+Functions
 
 🔹 Object-Oriented Programming (OOP)
 
-#Classes & Objects
-#Constructors
-#Inheritance
-#Polymorphism
-#Encapsulation
+Classes & Objects
+
+Constructors
+
+Inheritance
+
+Polymorphism
+
+Encapsulation
 
 🔹 Core Concepts
 
-#Exception Handling
-#File Handling
-#Recursion
+Exception Handling
+
+File Handling
+
+Recursion
 
 🔹 Searching Algorithms
 
-#Linear Search
-#Binary Search
+Linear Search
+
+Binary Search
 
 🔹 Sorting Algorithms
 
 Bubble Sort
 
-#Selection Sort
-#Insertion Sort
-#Merge Sort
-#Quick Sort
+Selection Sort
+
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
 
 🔹 Data Structures
 
-# Arrays
-# Stack
-# Queue
-# Linked List
-# Trees
-# Graphs
-# Hashing
+Arrays
+
+Stack
+
+Queue
+
+Linked List
+
+Trees
+
+Graphs
+
+Hashing
 
 🔹 Problem Solving
 
